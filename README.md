@@ -31,7 +31,7 @@ Currently engineering detections and automations across **Google SecOps (Chronic
 - Detection Engineer · Peraton (supporting U.S. Department of State) · TS/SCI
 - Detection Engineer · Nelnet
 - Prior adversary pursuit · CISA · nation-state tracking
-- U.S. Marine Corps · NSM · KQL · threat hunting · IR
+- MARFORCYBER · NSM · KQL · threat hunting · IR
 - GCFA · CASP+ · Cribl Certified User
 - B.S. Cybersecurity · WGU
 
